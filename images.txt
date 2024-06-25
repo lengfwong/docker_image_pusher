@@ -7,4 +7,4 @@
 --platform=linux/amd64 nyanmisaka/jellyfin
 --platform=linux/amd64 photoprism/photoprism
 #mariadb
-#--platform=linux/amd64 mariadb:10.11
+--platform=linux/amd64 mariadb:10.11

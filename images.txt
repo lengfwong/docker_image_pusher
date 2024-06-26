@@ -4,7 +4,10 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/amd64 nyanmisaka/jellyfin
---platform=linux/amd64 photoprism/photoprism
+#--platform=linux/amd64 nyanmisaka/jellyfin
+#--platform=linux/amd64 photoprism/photoprism
+nyanmisaka/jellyfin
+photoprism/photoprism
 #mariadb
---platform=linux/amd64 mariadb:10.11
+#--platform=linux/amd64 mariadb:10.11
+mariadb:10.11

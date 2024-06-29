@@ -10,4 +10,4 @@ nyanmisaka/jellyfin
 photoprism/photoprism
 #mariadb
 #--platform=linux/amd64 mariadb:10.11
-mariadb:10.11
+mariadb:11
